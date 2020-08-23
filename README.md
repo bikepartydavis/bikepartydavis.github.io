@@ -11,15 +11,13 @@ We ride togher, focused on having fun, and intend to illustrate the fun that is 
 ### **When**
 
 We ride on the last Friday of the month. <br>
-
 The ride starts at 7:30 PM. We gather at 7:00 PM. 
 
 A voulnteer pre-ride happens the preceeding Wednesday.
 
 ### **Where**
 
-The ride starts at the Farmer's Market Plaza in Downtown Davis.
-
+The ride starts at the Farmer's Market Plaza in Downtown Davis.<br>
 Gather at the North Side nearest Community Park.
 
 [Google Maps Link](https://goo.gl/maps/xGCGkKqiZqXwbfjMA)
@@ -44,21 +42,18 @@ Not local but an aggregator whom distributes to local organizations
 
 **July 31st, 2020**
 
--We ride at 7:30.
--We ride from Central Park (aka Farmer's Market Plaza). 
+-We ride at 7:30.<br>
+-We ride from Central Park (aka Farmer's Market Plaza). <br>
 
 What to bring:
--An operable bike.
--A mask. 
--A good attitude.
--Bike Lights. 
--Creative costumes.
--Decorated bikes.
+
+-An operable bike.<br>
+-A mask. <br>
+-A good attitude.<br>
+-Bike Lights. <br>
+-Creative costumes.<br>
+-Decorated bikes.<br>
 
 Bring and wear a mask, we will ride safely as a group, practicing safe social distancing over an 8-mile, hour long bike ride. 
 
 [Route Preview](https://www.google.com/maps/d/u/0/viewer?mid=1f8th4JJHlKVf-XGI6f0UoJfNtTc6IWVi&ll=38.54676093884138%2C-121.73671150000001&z=15)
-
-
-
-
