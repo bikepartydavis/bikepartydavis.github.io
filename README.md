@@ -12,7 +12,7 @@ We ride togher, focused on having fun, and intend to illustrate the fun that is 
 
 We ride on the last Friday of the month. <br>
 
-The ride starts at 7:30 PM, we gather at 7:00 PM. 
+The ride starts at 7:30 PM. We gather at 7:00 PM. 
 
 A voulnteer pre-ride happens the preceeding Wednesday.
 
