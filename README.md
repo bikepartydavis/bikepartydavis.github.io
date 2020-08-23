@@ -27,6 +27,21 @@ Gather at the North Side nearest Community Park.
 
 ## **Upcoming rides:** 
 
+**August 28th, 2020**
+
+Tenatively planned, possible cancellation due to poor air quiality. To be updated on Wednesday, August 26th.
+
+Local organizations supporting people impacted by current fires: 
+
+-[Solano Community Foundation](https://www.solanocf.org/Funds/Public/FundView.aspx?hFund=157&hFundCode=1&hFundType=1)
+-[Napa Valley Community Foundation](https://www.napavalleycf.org/our-response-to-the-2020-napa-county-wildfires/)
+-[American Red Cross-Gold Country Region](https://www.redcross.org/local/california/gold-country.html)
+-[Sonoma County Community Foundation](https://www.sonomacf.org/)
+-[Community Foundation for Santa Cruz County](https://www.cfscc.org/updates/fire-response-fund)
+
+Not local but an aggregator whom distributes to local organizations
+-[Center for Disaster Philanthropy](https://disasterphilanthropy.org/donate-to-the-california-wildfires-recovery-fund/)
+
 **July 31st, 2020**
 
 -We ride at 7:30.
