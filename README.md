@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Bike Party Davis
 
-You can use the [editor on GitHub](https://github.com/bikepartydavis/bikepartydavis.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bike Party Davis is a monthly ride which is built to be radically inclusive and invite people from all walks together for a short and friendly bicycle ride. We journey toegther for about an hour of riding, not including a short stop at a local park, highlighting a different part of Davis' wonderful bicycle infrastructure with each ride. Riders are encouraged to come in costume and to bring the party, we do however ask that you do such safely and in adhenrence of relevant laws. We ride togher, focused on having fun, and intend to show both new and expereinced bicyclists the fun that is available in Davis on a bike. 
 
 ### Markdown
 
