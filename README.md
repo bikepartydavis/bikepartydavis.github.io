@@ -33,12 +33,11 @@ Tenatively planned, possible cancellation due to poor air quiality. To be update
 
 Local organizations supporting people impacted by current fires: 
 
--[Solano Community Foundation](https://www.solanocf.org/Funds/Public/FundView.aspx?hFund=157&hFundCode=1&hFundType=1)
-
--[Napa Valley Community Foundation](https://www.napavalleycf.org/our-response-to-the-2020-napa-county-wildfires/)
--[American Red Cross-Gold Country Region](https://www.redcross.org/local/california/gold-country.html)
--[Sonoma County Community Foundation](https://www.sonomacf.org/)
--[Community Foundation for Santa Cruz County](https://www.cfscc.org/updates/fire-response-fund)
+-[Solano Community Foundation](https://www.solanocf.org/Funds/Public/FundView.aspx?hFund=157&hFundCode=1&hFundType=1)<br>
+-[Napa Valley Community Foundation](https://www.napavalleycf.org/our-response-to-the-2020-napa-county-wildfires/)<br>
+-[American Red Cross-Gold Country Region](https://www.redcross.org/local/california/gold-country.html)<br>
+-[Sonoma County Community Foundation](https://www.sonomacf.org/)<br>
+-[Community Foundation for Santa Cruz County](https://www.cfscc.org/updates/fire-response-fund)<br>
 
 Not local but an aggregator whom distributes to local organizations
 -[Center for Disaster Philanthropy](https://disasterphilanthropy.org/donate-to-the-california-wildfires-recovery-fund/)
