@@ -22,7 +22,7 @@ The ride starts at the Farmer's Market Plaza in Downtown Davis.
 
 Gather at the North Side nearest Community Park.
 
-_[Google Maps Link]_(https://goo.gl/maps/xGCGkKqiZqXwbfjMA)
+[Google Maps Link](https://goo.gl/maps/xGCGkKqiZqXwbfjMA)
 
 ```markdown
 Upcoming ride: July 31st
