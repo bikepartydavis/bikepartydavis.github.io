@@ -24,8 +24,10 @@ Gather at the North Side nearest Community Park.
 
 [Google Maps Link](https://goo.gl/maps/xGCGkKqiZqXwbfjMA)
 
-```markdown
-Upcoming ride: July 31st
+
+## **Upcoming rides:** 
+
+## **July 31st, 2020**
 
 -We ride at 7:30.
 -We ride from Central Park (aka Farmer's Market Plaza). 
@@ -42,5 +44,5 @@ Bring and wear a mask, we will ride safely as a group, practicing safe social di
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1f8th4JJHlKVf-XGI6f0UoJfNtTc6IWVi" width="640" height="480"></iframe>
 
-```
+
 
