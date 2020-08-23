@@ -27,7 +27,7 @@ Gather at the North Side nearest Community Park.
 
 ## **Upcoming rides:** 
 
-## **July 31st, 2020**
+**July 31st, 2020**
 
 -We ride at 7:30.
 -We ride from Central Park (aka Farmer's Market Plaza). 
@@ -42,7 +42,8 @@ What to bring:
 
 Bring and wear a mask, we will ride safely as a group, practicing safe social distancing over an 8-mile, hour long bike ride. 
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1f8th4JJHlKVf-XGI6f0UoJfNtTc6IWVi" width="640" height="480"></iframe>
+![Route Preview](https://www.google.com/maps/d/embed?mid=1f8th4JJHlKVf-XGI6f0UoJfNtTc6IWVi)
+
 
 
 
