@@ -1,10 +1,24 @@
 ## Bike Party Davis
 
-Bike Party Davis is a monthly ride which is built to be radically inclusive and invite people from all walks together for a short and friendly bicycle ride. We journey toegther for about an hour of riding, not including a short stop at a local park, highlighting a different part of Davis' wonderful bicycle infrastructure with each ride. Riders are encouraged to come in costume and to bring the party, we do however ask that you do such safely and in adhenrence of relevant laws. We ride togher, focused on having fun, and intend to show both new and expereinced bicyclists the fun that is available in Davis on a bike. 
+Bike Party Davis is a monthly ride which is built to be radically inclusive and invite people from all walks together for a short and friendly bicycle ride. 
 
-### Markdown
+We journey toegther for about an hour of riding, not including a short stop at a local park, highlighting a different part of Davis' wonderful bicycle infrastructure with each ride. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Riders are encouraged to come in costume and to bring the party, we do however ask that you do such safely and in adhenrence of relevant laws. 
+
+We ride togher, focused on having fun, and intend to show both new and expereinced bicyclists the fun that is available in Davis on a bike. 
+
+### When
+
+We ride on the last Friday of the month. 
+The ride starts at 7:30, we gather at 7. 
+A voulnteer pre-ride happens Wednesday.
+
+### Where
+
+The ride starts at the Farmer's Market Plaza in Downtown Davis.
+Gather at the North Side nearest Community Park.
+https://goo.gl/maps/xGCGkKqiZqXwbfjMA
 
 ```markdown
 Syntax highlighted code block
