@@ -40,5 +40,7 @@ What to bring:
 
 Bring and wear a mask, we will ride safely as a group, practicing safe social distancing over an 8-mile, hour long bike ride. 
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1f8th4JJHlKVf-XGI6f0UoJfNtTc6IWVi" width="640" height="480"></iframe>
+
 ```
 
