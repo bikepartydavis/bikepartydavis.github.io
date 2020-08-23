@@ -41,6 +41,7 @@ Local organizations supporting people impacted by current fires:
 -[Community Foundation for Santa Cruz County](https://www.cfscc.org/updates/fire-response-fund)<br>
 
 Not local but an aggregator whom distributes to local organizations: <br>
+
 -[Center for Disaster Philanthropy](https://disasterphilanthropy.org/donate-to-the-california-wildfires-recovery-fund/)
 
 **July 31st, 2020**
