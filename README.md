@@ -33,6 +33,7 @@ Tenatively planned, possible cancellation due to poor air quiality. To be update
 
 Local organizations supporting people impacted by current fires: 
 
+-[Yolo Food Bank](www.yolofoodbank.org)<br>
 -[Solano Community Foundation](https://www.solanocf.org/Funds/Public/FundView.aspx?hFund=157&hFundCode=1&hFundType=1)<br>
 -[Napa Valley Community Foundation](https://www.napavalleycf.org/our-response-to-the-2020-napa-county-wildfires/)<br>
 -[American Red Cross-Gold Country Region](https://www.redcross.org/local/california/gold-country.html)<br>
