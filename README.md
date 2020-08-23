@@ -1,4 +1,4 @@
-## Bike Party Davis
+## **Bike Party Davis**
 
 Bike Party Davis is a monthly ride which is built to be radically inclusive and invite people from all walks together for a short and friendly paced bicycle ride. 
 
@@ -6,13 +6,13 @@ We journey toegther for about an hour of riding, not including a short stop at a
 
 Riders are encouraged to come in costume and to bring the party, we do however ask that you do such safely and in adhenrence of relevant laws. 
 
-We ride togher, focused on having fun, and intend to illustrate the fun that is available in Davis on a bike. 
+We ride togher, focused on having fun, and intend to illustrate the fun that is available in Davis when you choose to bike. 
 
 ### **When**
 
 We ride on the last Friday of the month. <br>
 
-The ride starts at 7:30, we gather at 7. 
+The ride starts at 7:30 PM, we gather at 7:00 PM. 
 
 A voulnteer pre-ride happens the preceeding Wednesday.
 
@@ -22,25 +22,23 @@ The ride starts at the Farmer's Market Plaza in Downtown Davis.
 
 Gather at the North Side nearest Community Park.
 
-[Link](https://goo.gl/maps/xGCGkKqiZqXwbfjMA)
+_[Google Maps Link]_(https://goo.gl/maps/xGCGkKqiZqXwbfjMA)
 
 ```markdown
-Syntax highlighted code block
+Upcoming ride: July 31st
 
-# Header 1
-## Header 2
-### Header 3
+-We ride at 7:30.
+-We ride from Central Park (aka Farmer's Market Plaza). 
 
-- Bulleted
-- List
+What to bring:
+-An operable bike.
+-A mask. 
+-A good attitude.
+-Bike Lights. 
+-Creative costumes.
+-Decorated bikes.
 
-1. Numbered
-2. List
+Bring and wear a mask, we will ride safely as a group, practicing safe social distancing over an 8-mile, hour long bike ride. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
