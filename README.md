@@ -27,6 +27,27 @@ Gather at the North Side nearest Community Park.
 
 ## **Upcoming rides:** 
 
+**September 25th, 2020**
+
+Fall is here, the air is clear, and it's time we bring out the safest and best Davis way to have fun, it's time we BIKE PARTY! 
+
+Usual rules apply: 
+
+-We ride at 7:30.<br>
+-We ride from Central Park (aka Farmer's Market Plaza). <br>
+
+What to bring:
+
+-An operable bike.<br>
+-A mask. <br>
+-A good attitude.<br>
+-Bike Lights. <br>
+-Creative costumes.<br>
+-Decorated bikes.<br>
+
+Bring and wear a mask, we will ride safely as a group, practicing safe social distancing over an 8-mile, hour long bike ride. 
+
+
 **August 28th, 2020**
 
 Tenatively planned, possible cancellation due to poor air quiality. To be updated on Wednesday, August 26th.
