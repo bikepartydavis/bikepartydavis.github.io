@@ -27,6 +27,28 @@ Gather at the North Side nearest Community Park.
 
 ## **Upcoming rides:** 
 
+**October 30th, 2020**
+
+Are you ready for Halloween?! Do you want a Friday night Halloween themed event that is safely spaced and responsibly social? What a perfect night for BIKE PARTY DAVIS!
+
+It's that time, we get ready to a party, be ready for a ghoulish time to gather on bicycle. On the eve of All Hallows Eve, we ride, into the moonlight in our usual fashion for Bike Party Davis. 
+
+Usual rules apply:
+
+-We ride at 7:30.<br>
+-We ride from Central Park (aka Farmer’s Market Plaza).<br>
+
+What to bring:
+
+-An operable bike.<br>
+-A mask.<br>
+-A good attitude.<br>
+-Bike Lights.<br>
+-Creative costumes.<br>
+-Decorated bikes.<br>
+
+Bring and wear a mask, we will ride safely as a group, practicing safe social distancing over an 8-mile, hour long bike ride.
+
 **September 25th, 2020**
 
 Fall is here, the air is clear, and it's time we bring out the safest and best Davis way to have fun, it's time we BIKE PARTY! 
